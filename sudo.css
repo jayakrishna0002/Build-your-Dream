@@ -1,0 +1,49 @@
+/*button {
+    background-color: blue;
+}
+
+button:hover {
+    background-color: brown;
+}
+a:link {
+    color:green
+}
+a:visited{
+    color: aquamarine;
+}
+a:active {
+    color:blanchedalmond;
+}
+input:focus {
+    outline: none;
+    background-color: cornflowerblue;
+}
+input:invalid {
+    background-color: red;
+}
+input:valid{
+    background-color: blueviolet;
+}
+.item:first-child {
+    background-color: aqua;
+}
+.item:last-child{
+    background-color: cornflowerblue;
+}
+div:first-of-type {
+    background-color: yellowgreen;
+}
+
+div:last-of-type {
+background-color: aquamarine;
+}*/
+.item:nth-child(2n){
+    background-color: blue;
+}
+div:nth-of-type(1){
+    background-color: brown;
+}
+
+
+.item:nth-last-child(){}
+div:nth-last-of-type(){}
